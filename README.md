@@ -31,12 +31,4 @@ This project analyzes a hospital dataset containing over 8,000 patient records u
 - **Pandas** for data handling
 - **Matplotlib** and **Seaborn** for data visualization
 
-## 📁 Dataset
 
-The dataset is assumed to be a CSV file named `Health_dataset.csv` and should be placed in the same directory as the script.
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hospital-data-analysis.git
